@@ -1,0 +1,29 @@
+Batch,Branch,Step,Unique Products,Sink Hits,Result
+A,Iridoid,GES,1136,1,Recovered
+A,Iridoid,G8H,1559,1,Recovered
+A,Iridoid,8HGO,920,1,Recovered
+A,Iridoid,ISY,0,0,ERROR
+A,Iridoid,IO,0,0,ERROR
+A,Iridoid,7DLGT,0,0,ERROR
+A,Iridoid,7DLH,0,0,ERROR
+A,Iridoid,LAMT,0,0,ERROR
+A,Iridoid,SLS,0,0,ERROR
+A,Indole,TDC,604,1,Recovered
+A,Central,SGD,1344,1,Recovered
+A,Central,GS,1046,0,Not recovered
+A,Central,GO-Redox1-Redox2,1435,0,Not recovered
+A,Central,SAT,1309,1,Recovered
+A,Central,ASO,1228,1,Recovered
+A,Central,DPAS,915,0,Not recovered
+A,Catharanthine,CS,896,0,Not recovered
+A,Vindoline,TS,950,0,Not recovered
+A,Vindoline,T16H,1385,1,Recovered
+A,Vindoline,16OMT,920,1,Recovered
+A,Vindoline,T3O-T3R,1397,1,Recovered
+A,Vindoline,NMT,1367,1,Recovered
+A,Vindoline,D4H,1729,1,Recovered
+A,Vindoline,DAT,1704,1,Recovered
+A,Late,Vincristine Formation,2861,0,Not recovered
+A,Late,Vinblastine Formation,2990,1,Recovered
+B,Central,STR,0,0,ERROR
+B,Dimer,Catharanthine-Vindoline coupling,2598,2,Recovered

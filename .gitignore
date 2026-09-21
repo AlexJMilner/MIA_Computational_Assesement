@@ -1,0 +1,31 @@
+__pycache__/
+*.pyc
+.vscode/
+
+temp/
+tmp/
+
+*.aux
+*.log
+*.out
+*.toc
+*.bcf
+*.blg
+*.run.xml
+*.synctex.gz
+
+# LibreOffice temporary files
+.~lock.*
+
+# Windows junk
+desktop.ini
+
+# RetroPath / .NET runtime files
+*.dll
+*.exe
+*.deps.json
+*.runtimeconfig.json
+
+# Large/local rule datasets
+retrorules_parsed.csv
+rules.csv
